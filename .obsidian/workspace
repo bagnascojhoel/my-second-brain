@@ -7,12 +7,8 @@
         "id": "d8ea52e8e9ab1a95",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "The PARA Method.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The PARA Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +84,7 @@
   },
   "active": "d8ea52e8e9ab1a95",
   "lastOpenFiles": [
-    "The PARA Method.md"
+    "The PARA Method.md",
+    "README.md"
   ]
 }

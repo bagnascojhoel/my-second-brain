@@ -14,4 +14,3 @@
 
 ##### Source
 - https://fortelabs.co/blog/para/
-- 
