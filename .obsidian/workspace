@@ -7,8 +7,12 @@
         "id": "3aaf0a7f5f77d756",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "1. Projects/Use PARA method.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1. Projects/Use PARA method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,8 +89,9 @@
   },
   "active": "3aaf0a7f5f77d756",
   "lastOpenFiles": [
-    "3. Resources/The PARA Method.md",
+    "1. Projects/Use PARA method.md",
     "2. Areas of Responsibility/Untitled.md",
-    "README.md"
+    "README.md",
+    "3. Resources/The PARA Method.md"
   ]
 }
