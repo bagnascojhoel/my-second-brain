@@ -11,7 +11,7 @@ There's `px`, `pt`, `dp` and `sp`. Each one has its one particularity. But in th
 ## Main size
 **It's all about legibility. You cannot have a specific sizes as your silver bullets.** Some font styles will be readable with 16px, others will only be okay at 18px and some will be too big at 16px. Given that, a good place to start picking your design's size is **16px**.
 
-The main size is what you will use on most of the text in your design. It should be as readable as the text in a well-printed book, held in a proper and natural distance.
+The main size is what you will use on most of the text in your design. For mobile it should be as readable as the text in a well-printed book, held in a proper and natural distance. And for desktop, you should consider the proper distance someone should be from a monitor.
 
 Your process could be something like this:
 1. Choose a good font for your context.
@@ -28,9 +28,12 @@ Only one point smaller than your main size, would be difficult to notice. A good
 Depending on the intent of your page, the best font-size can be different.
 
 ### Text-Heavy
-These pages have the main goal of beign read. Articles, blogs and news are some examples. In these kind of pages, your user will be reading for a long time. Be nice. Small fonts will tire their eyes. 
-Just as stated before, *it all depends on the font-style*. But your could use some standard:
-- 16px minimum.
-- 18px a better size to start from. People are staring at monitors, you don't need to save space.
-- 20px
+These pages have the main goal of being read. Articles, blogs and news are some examples. In this kind of pages, your user will be reading for a long time. Be nice. Small fonts will tire their eyes. 
+Just as stated before, *it all depends on the font-style*. But you could use some standard:
+- 16px is the minimum.
+- 18px, a better size to start from. People are staring at monitors, you don't need to save space.
+
+### Interaction-Heavy
+When your user faces a large amount of data, even 18px can be uncomfortably large. These pages require font-sizes driven by specific needs of each piece of text and their interactions. So there is no text book for these pages. Your only rule should be "Ever"
+
 
