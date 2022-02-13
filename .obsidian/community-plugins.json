@@ -3,5 +3,7 @@
   "obsidian-languagetool-plugin",
   "obsidian-local-images",
   "note-refactor-obsidian",
-  "cm-editor-syntax-highlight-obsidian"
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-kanban",
+  "obsidian-outliner"
 ]
