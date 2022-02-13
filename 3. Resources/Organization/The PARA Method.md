@@ -12,7 +12,7 @@
 - **(A) Archive**: inactive items from the other categories
 	- I.e.: a completed or abandoned project; areas that you no longer wish to maintain; resources that you've lost interest in.  
 ## FAQ
-- Shouldn't "Projects" be inside "Areas of Responsibility"? Context-wise, yes; but its impractical. Projects are supposed to be changed more frequently and focused. Areas can have an infinity of data, which will increase the cognitive load to your brain.
+- Shouldn't "Projects" be inside "Areas of Responsibility"? Context-wise, yes; but it's impractical. Projects are supposed to be changed more frequently and focused. Areas can have an infinity of data, which will increase the cognitive load to your brain.
 - What is the difference between Areas of Responsibility and Resources? The only difference is your commitment to them. Resources will contain everything you are interest, but no too invested to consider a big part of your life. Areas, on the other hand, are things important for you. Like a side-hustle you're betting will be your main source of income, your relationships with people you what to keep besides you, a topic you study frequently and has deep impact in your life.
 
 ##### Source
