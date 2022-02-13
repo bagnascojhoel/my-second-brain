@@ -16,4 +16,4 @@ Your process could be something like this:
 1. Choose a good font for your context.
 2. Start with 16px main size.
 3. Consider *going smaller* if your application is interaction-heavy or the font has large, easy-to-read characters.
-4. On the other hand, when going larger you can be looser. But you should strongly consider, when your page is text-heavy or the font is hard to read.
+4. On the other hand, when going larger, you can be looser. But you should strongly consider, when your page is text-heavy or the font is hard to read.
