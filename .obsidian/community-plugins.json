@@ -1,11 +1,9 @@
 [
   "obsidian-git",
   "obsidian-languagetool-plugin",
-  "obsidian-local-images",
   "note-refactor-obsidian",
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-kanban",
   "obsidian-outliner",
-  "obsidian-image-toolkit",
-  "obsidian-day-planner"
+  "obsidian-image-toolkit"
 ]
