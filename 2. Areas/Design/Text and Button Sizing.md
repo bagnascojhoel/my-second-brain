@@ -23,3 +23,14 @@ iOS browsers will zoom in if your text-input is smaller than **16px**. So, that 
 
 ## Secondary size
 Only one point smaller than your main size, would be difficult to notice. A good rule-of-thumb is going two points smaller and styling the text so that is clear it is less important.
+
+## Types of Pages
+Depending on the intent of your page, the best font-size can be different.
+
+### Text-Heavy
+These pages have the main goal of beign read. Articles, blogs and news are some examples. In these kind of pages, your user will be reading for a long time. Be nice. Small fonts will tire their eyes. 
+Just as stated before, *it all depends on the font-style*. But your could use some standard:
+- 16px minimum.
+- 18px a better size to start from. People are staring at monitors, you don't need to save space.
+- 20px
+
