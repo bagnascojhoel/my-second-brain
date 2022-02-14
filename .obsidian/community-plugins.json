@@ -5,5 +5,7 @@
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-kanban",
   "obsidian-outliner",
-  "obsidian-image-toolkit"
+  "obsidian-image-toolkit",
+  "nldates-obsidian",
+  "url-into-selection"
 ]
