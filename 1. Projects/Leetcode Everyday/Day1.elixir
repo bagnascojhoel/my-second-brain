@@ -1,0 +1,28 @@
+defmodule Solution do
+  @spec day_of_year(date :: String.t) :: integer
+  def day_of_year(date) do
+    months = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31];
+    dateParts = String.split(date, "-");
+    year = fetch(dateParts, 0);
+    month = fetch(dateParts, 1);
+    day = fetch(dateParts, 2);
+    isLeapYear = rem(year / 4);
+
+    result = Enum.reduce(months, 0, fn (qtdDays, {index,acc}) ->
+        cond do
+            index +1 > month ->
+                {index+1,acc}
+            true ->
+                {index+1,acc+qtdDays}
+        end
+    end)
+
+    if isLeapYear and month == 2 do
+        result = result + 1
+    end
+
+    result;
+  end
+
+  def
+end
