@@ -4,5 +4,11 @@
   "spellcheckDictionary": [
     "Kwik-Ecommerce"
   ],
-  "attachmentFolderPath": "media"
+  "attachmentFolderPath": "media",
+  "showLineNumber": false,
+  "spellcheck": false,
+  "spellcheckLanguages": [
+    "en-US",
+    "pt-BR"
+  ]
 }

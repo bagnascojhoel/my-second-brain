@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Projects/Leetcode Everyday/Day 1.md",
+            "file": "1. Projects/AWS Developer Certificate/Untitled.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/Leetcode Everyday/Day 1.md",
+                "file": "1. Projects/AWS Developer Certificate/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/Leetcode Everyday/Day 1.md",
+                "file": "1. Projects/AWS Developer Certificate/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,15 +113,15 @@
   },
   "active": "3aaf0a7f5f77d756",
   "lastOpenFiles": [
+    "1. Projects/AWS Developer Certificate/Untitled.md",
+    "1. Projects/AWS Developer Certificate/IAM.md",
+    "1. Projects/AWS Developer Certificate/Billing Alerts.md",
+    "1. Projects/AWS Developer Certificate/EC2.md",
+    "1. Projects/Leetcode Everyday/Day 2.md",
     "1. Projects/Leetcode Everyday/Day 1.md",
     "Day Planners/Day Planner-20220213.md",
     "media/Pasted image 20220213194231.png",
     "media/Pasted image 20220213163054.png",
-    "1. Projects/Korrespah/Wire-Frame.md",
-    "media/Pasted image 20220213194116.png",
-    "media/WhatsApp Image 2022-02-13 at 16.27.14.jpeg",
-    "2. Areas/Design/Text and Button Sizing.md",
-    "2. Areas/Development Career/General Advices.md",
-    "3. Resources/Team Conviviability/Force Multiplication.md"
+    "1. Projects/Korrespah/Wire-Frame.md"
   ]
 }

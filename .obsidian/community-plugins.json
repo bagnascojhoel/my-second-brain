@@ -1,11 +1,11 @@
 [
   "obsidian-git",
-  "obsidian-languagetool-plugin",
   "note-refactor-obsidian",
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-kanban",
   "obsidian-outliner",
   "obsidian-image-toolkit",
   "nldates-obsidian",
-  "url-into-selection"
+  "url-into-selection",
+  "obsidian-languagetool-plugin"
 ]
