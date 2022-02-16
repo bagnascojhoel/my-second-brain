@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Projects/Leetcode Everyday/Day 3.md",
+            "file": "2. Areas/Development Career/Using VIM.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/Leetcode Everyday/Day 3.md",
+                "file": "2. Areas/Development Career/Using VIM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/Leetcode Everyday/Day 3.md",
+                "file": "2. Areas/Development Career/Using VIM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,6 +113,7 @@
   },
   "active": "3aaf0a7f5f77d756",
   "lastOpenFiles": [
+    "2. Areas/Development Career/Using VIM.md",
     "1. Projects/Leetcode Everyday/Day 3.md",
     "1. Projects/AWS Developer Certificate/CDN.md",
     "1. Projects/AWS Developer Certificate/Load Balancer.md",
@@ -121,7 +122,6 @@
     "1. Projects/AWS Developer Certificate/Tags.md",
     "1. Projects/AWS Developer Certificate/Billing Alerts.md",
     "1. Projects/AWS Developer Certificate/DNS.md",
-    "1. Projects/AWS Developer Certificate/IAM.md",
-    "1. Projects/AWS Developer Certificate/EC2.md"
+    "1. Projects/AWS Developer Certificate/IAM.md"
   ]
 }
