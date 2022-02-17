@@ -2,7 +2,8 @@
 
 [[17/02/2022]]
 # [Combination Sum](https://leetcode.com/problems/combination-sum/)
-Took me XXXX to come up with:
+I spent 49:52 trying to solve it, but never got close.
+
 ```
 
 ```
