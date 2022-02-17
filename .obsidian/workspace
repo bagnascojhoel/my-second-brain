@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3aaf0a7f5f77d756",
+        "id": "9a185dde5fe6c196",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "templates/leetcode_everyday-page.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -70,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/leetcode_everyday-page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/leetcode_everyday-page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,17 +104,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3aaf0a7f5f77d756",
+  "active": "9a185dde5fe6c196",
   "lastOpenFiles": [
+    "scripts/Untitled.md",
+    "media/Pasted image 20220213163054.png",
     "templates/leetcode_everyday-page.md",
     "1. Projects/Leetcode Everyday/Day 3.md",
+    "1. Projects/Leetcode Everyday/Day 4.md",
     "1. Projects/Leetcode Everyday/Day 4.md",
     "1. Projects/Leetcode Everyday/Day 1.md",
     "1. Projects/Leetcode Everyday/Day 2.md",
     "1. Projects/AWS Developer Certificate/Geographical Components.md",
-    "1. Projects/AWS Developer Certificate/IAM.md",
-    "2. Areas/Development Career/Using VIM.md",
-    "1. Projects/AWS Developer Certificate/CDN.md",
-    "1. Projects/AWS Developer Certificate/Load Balancer.md"
+    "1. Projects/AWS Developer Certificate/IAM.md"
   ]
 }
