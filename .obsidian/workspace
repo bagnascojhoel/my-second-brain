@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Projects/Leetcode Everyday/Combination Sum.md",
+            "file": "2. Areas/Development Career/Backtracking.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/Leetcode Everyday/Combination Sum.md",
+                "file": "2. Areas/Development Career/Backtracking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/Leetcode Everyday/Combination Sum.md",
+                "file": "2. Areas/Development Career/Backtracking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,6 +113,7 @@
   },
   "active": "4f4ce670b2b1c478",
   "lastOpenFiles": [
+    "2. Areas/Development Career/Backtracking.md",
     "1. Projects/Leetcode Everyday/Combination Sum.md",
     "templates/leetcode_everyday-page.md",
     "README.md",
