@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2. Areas/Development Career/Using VIM.md",
+            "file": "1. Projects/AWS Developer Certificate/Geographical Components.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -54,7 +54,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2fcd36d9a1d22930",
@@ -70,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Areas/Development Career/Using VIM.md",
+                "file": "1. Projects/AWS Developer Certificate/Geographical Components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Areas/Development Career/Using VIM.md",
+                "file": "1. Projects/AWS Developer Certificate/Geographical Components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,6 +114,8 @@
   },
   "active": "3aaf0a7f5f77d756",
   "lastOpenFiles": [
+    "1. Projects/AWS Developer Certificate/Geographical Components.md",
+    "1. Projects/AWS Developer Certificate/IAM.md",
     "2. Areas/Development Career/Using VIM.md",
     "1. Projects/Leetcode Everyday/Day 3.md",
     "1. Projects/AWS Developer Certificate/CDN.md",
@@ -120,8 +123,6 @@
     "1. Projects/Leetcode Everyday/Day 2.md",
     "1. Projects/AWS Developer Certificate/S3.md",
     "1. Projects/AWS Developer Certificate/Tags.md",
-    "1. Projects/AWS Developer Certificate/Billing Alerts.md",
-    "1. Projects/AWS Developer Certificate/DNS.md",
-    "1. Projects/AWS Developer Certificate/IAM.md"
+    "1. Projects/AWS Developer Certificate/Billing Alerts.md"
   ]
 }
