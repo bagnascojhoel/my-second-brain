@@ -1,7 +1,8 @@
 #leetcode #development_career 
 
-Today, <% tp.file.creation_date("DD/MM/YYYY") %>, I will solve
-- [<%tp.file.title%>](https://leetcode.com/problems/<%tp.user.lowercase(tp.file.title)%>/), took me XXXX, and the solution I came up with was:
+[[<% tp.file.creation_date("DD/MM/YYYY") %>]]
+# [<%tp.%>](https://leetcode.com/problems/<%tp.user.lowercase(tp.file.title)%>/)
+Took me XXXX to come up with:
 ```
 
 ```

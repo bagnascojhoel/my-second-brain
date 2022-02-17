@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9a185dde5fe6c196",
+        "id": "4f4ce670b2b1c478",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Projects/Leetcode Everyday/Combination Sum.md",
+            "file": "templates/leetcode_everyday-page.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/Leetcode Everyday/Combination Sum.md",
+                "file": "templates/leetcode_everyday-page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/Leetcode Everyday/Combination Sum.md",
+                "file": "templates/leetcode_everyday-page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,16 +111,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9a185dde5fe6c196",
+  "active": "4f4ce670b2b1c478",
   "lastOpenFiles": [
-    "1. Projects/Leetcode Everyday/Combination Sum.md",
     "templates/leetcode_everyday-page.md",
-    "1. Projects/Leetcode Everyday/Day 3.md",
+    "README.md",
+    "1. Projects/Leetcode Everyday/Combination Sum.md",
+    "1. Projects/Leetcode Everyday/Combination Sum.md",
+    "1. Projects/Leetcode Everyday/Day of the Year.md",
+    "2022-02-17.md",
+    "1. Projects/Leetcode Everyday/Swap Nodes in Pairs.md",
+    "1. Projects/Leetcode Everyday/Single Number.md",
     "scripts/Untitled.md",
-    "media/Pasted image 20220213163054.png",
-    "1. Projects/Leetcode Everyday/Day 4.md",
-    "1. Projects/Leetcode Everyday/Day 4.md",
-    "1. Projects/Leetcode Everyday/Day 1.md",
-    "1. Projects/Leetcode Everyday/Day 2.md"
+    "media/Pasted image 20220213163054.png"
   ]
 }

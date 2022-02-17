@@ -1,7 +1,7 @@
 #leetcode #development_career #elixir
 
-Today, [[2022-02-14]], I will solve
-- [Day of the Year](https://leetcode.com/problems/day-of-the-year/).
+[[2022-02-14]]
+# [Day of the Year](https://leetcode.com/problems/day-of-the-year/)
 It took me 01:31:10, and the solution I came up with was:
 
 ```elixir

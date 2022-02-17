@@ -1,7 +1,8 @@
 #leetcode #development_career #javascript
 
-Today, [[2022-02-15]], I will solve
-- [Single Number](https://leetcode.com/problems/single-number/), took me 09:18, and the solution I came up with was:
+[[2022-02-15]]
+# [Single Number](https://leetcode.com/problems/single-number/)
+Took me 09:18 to came up with:
 ```javascript
 // Complexity 2*O(N²)
 var singleNumber = function(nums) {
@@ -10,6 +11,7 @@ var singleNumber = function(nums) {
             return num;
 };
 ```
+
 The best solution I foud was:
 ```javascript
 /** It should be looked at as bits. Otherwise it will not make much sense.

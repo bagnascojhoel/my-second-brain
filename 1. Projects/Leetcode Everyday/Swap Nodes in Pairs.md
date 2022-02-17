@@ -1,7 +1,8 @@
 #leetcode #development_career #java 
 
-Today, [[2022-02-16]], I will solve
-- [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/), took me 01:18:44, and the solution I came up with was:
+[[2022-02-16]]
+# [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
+Took me 01:18:44 to came up with:
 ```java
 class Solution {
     public ListNode swapPairs(ListNode initialHead) {
