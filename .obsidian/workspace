@@ -7,8 +7,13 @@
         "id": "9a185dde5fe6c196",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "1. Projects/Leetcode Everyday/Combination Sum.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1. Projects/Leetcode Everyday/Combination Sum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,6 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1. Projects/Leetcode Everyday/Combination Sum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,15 +113,14 @@
   },
   "active": "9a185dde5fe6c196",
   "lastOpenFiles": [
-    "scripts/Untitled.md",
-    "media/Pasted image 20220213163054.png",
+    "1. Projects/Leetcode Everyday/Combination Sum.md",
     "templates/leetcode_everyday-page.md",
     "1. Projects/Leetcode Everyday/Day 3.md",
+    "scripts/Untitled.md",
+    "media/Pasted image 20220213163054.png",
     "1. Projects/Leetcode Everyday/Day 4.md",
     "1. Projects/Leetcode Everyday/Day 4.md",
     "1. Projects/Leetcode Everyday/Day 1.md",
-    "1. Projects/Leetcode Everyday/Day 2.md",
-    "1. Projects/AWS Developer Certificate/Geographical Components.md",
-    "1. Projects/AWS Developer Certificate/IAM.md"
+    "1. Projects/Leetcode Everyday/Day 2.md"
   ]
 }
