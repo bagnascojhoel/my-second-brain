@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2. Areas/Development Career/Backtracking.md",
+            "file": "1. Projects/Leetcode Everyday/Day 5.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Areas/Development Career/Backtracking.md",
+                "file": "1. Projects/Leetcode Everyday/Day 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Areas/Development Career/Backtracking.md",
+                "file": "1. Projects/Leetcode Everyday/Day 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,15 +113,15 @@
   },
   "active": "4f4ce670b2b1c478",
   "lastOpenFiles": [
+    "1. Projects/Leetcode Everyday/Day 5.md",
+    "1. Projects/Leetcode Everyday/Day 4.md",
+    "1. Projects/Leetcode Everyday/Day 3.md",
+    "1. Projects/Leetcode Everyday/Day 2.md",
+    "1. Projects/Leetcode Everyday/Day 1.md",
     "2. Areas/Development Career/Backtracking.md",
-    "1. Projects/Leetcode Everyday/Combination Sum.md",
     "templates/leetcode_everyday-page.md",
     "README.md",
-    "1. Projects/Leetcode Everyday/Day of the Year.md",
     "2022-02-17.md",
-    "1. Projects/Leetcode Everyday/Swap Nodes in Pairs.md",
-    "1. Projects/Leetcode Everyday/Single Number.md",
-    "scripts/Untitled.md",
-    "media/Pasted image 20220213163054.png"
+    "scripts/Untitled.md"
   ]
 }

@@ -1,6 +1,6 @@
 #leetcode #development_career #javascript
 
-[[2022-02-15]]
+[[15/02/2022]]
 # [Single Number](https://leetcode.com/problems/single-number/)
 Took me 09:18 to came up with:
 ```javascript

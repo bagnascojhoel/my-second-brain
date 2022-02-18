@@ -1,6 +1,6 @@
 #leetcode #development_career #java 
 
-[[2022-02-16]]
+[[16/02/2022]]
 # [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
 Took me 01:18:44 to came up with:
 ```java
