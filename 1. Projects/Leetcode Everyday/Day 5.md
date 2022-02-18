@@ -2,7 +2,7 @@
 
 [[18/02/2022]]
 # [Remove K Digits](https://leetcode.com/problems/remove-k-digits/)
-Took me 01:08:12 to come up with (but it doesn't work for every scenario):
+Took me 01:08:12 to come up with (**but it doesn't work for every scenario**):
 ```go
 func removeKdigits(num string, k int) string {
     smallest unit, err := strconv.Atoi(num)
