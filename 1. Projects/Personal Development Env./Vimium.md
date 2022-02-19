@@ -133,16 +133,3 @@ More documentation
 ------------------
 Many of the more advanced or involved features are documented on
 [Vimium's GitHub wiki](https://github.com/philc/vimium/wiki). Also
-see the [FAQ](https://github.com/philc/vimium/wiki/FAQ).
-
-Contributing
-------------
-See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
-
-Release Notes
--------------
-
-See [CHANGELOG](CHANGELOG.md) for the major changes in each release.
-
-License
--------
