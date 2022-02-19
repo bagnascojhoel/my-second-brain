@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Projects/Leetcode Everyday/Day 5.md",
+            "file": "Untitled.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -50,7 +50,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -70,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/Leetcode Everyday/Day 5.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/Leetcode Everyday/Day 5.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,15 +114,15 @@
   },
   "active": "4f4ce670b2b1c478",
   "lastOpenFiles": [
-    "1. Projects/Leetcode Everyday/Day 5.md",
     "Untitled.md",
+    "Untitled 1.md",
+    "1. Projects/Leetcode Everyday/Day 5.md",
     "2. Areas/Development Career/Golang.md",
     "1. Projects/Leetcode Everyday/Day 4.md",
     "1. Projects/Leetcode Everyday/Day 3.md",
     "1. Projects/Leetcode Everyday/Day 2.md",
     "1. Projects/Leetcode Everyday/Day 1.md",
     "2. Areas/Development Career/Backtracking.md",
-    "templates/leetcode_everyday-page.md",
-    "README.md"
+    "templates/leetcode_everyday-page.md"
   ]
 }
