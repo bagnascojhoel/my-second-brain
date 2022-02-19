@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "1. Projects/Personal Development Env./Goal.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -50,8 +50,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -71,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "1. Projects/Personal Development Env./Goal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "1. Projects/Personal Development Env./Goal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +113,7 @@
   },
   "active": "4f4ce670b2b1c478",
   "lastOpenFiles": [
-    "Untitled.md",
+    "1. Projects/Personal Development Env./Goal.md",
     "Untitled 1.md",
     "1. Projects/Leetcode Everyday/Day 5.md",
     "2. Areas/Development Career/Golang.md",
