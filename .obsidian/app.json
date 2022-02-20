@@ -11,5 +11,6 @@
     "en-US",
     "pt-BR"
   ],
-  "promptDelete": false
+  "promptDelete": false,
+  "vimMode": true
 }

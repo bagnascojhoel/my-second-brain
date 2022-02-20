@@ -1,6 +1,5 @@
 Keyboard Bindings
 -----------------
-
 Modifier keys are specified as `<c-x>`, `<m-x>`, and `<a-x>` for ctrl+x, meta+x, and alt+x
 respectively. For shift+x and ctrl-shift-x, just type `X` and `<c-X>`. See the next section for how to
 customize these bindings.
