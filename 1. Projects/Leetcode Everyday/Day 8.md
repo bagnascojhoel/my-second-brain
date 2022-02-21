@@ -1,4 +1,4 @@
-#leetcode #development_career 
+#leetcode #development_career #go 
 
 [[21/02/2022]]
 # [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
