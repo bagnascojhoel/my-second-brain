@@ -28,4 +28,4 @@ func contains(expected int, nums []int) bool {
 }
 ```
 
-It seems that searching for a duplicate after a sort is the quickest way. Even thoug there is a sort, propably most languages already have implemented good algorithms to handle that. 
+It seems that searching for a duplicate after a sort is the quickest way. Even thoug there is a sort, propably most languages already have implemented good algorithms to handle that.
