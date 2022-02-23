@@ -2,7 +2,7 @@
 
 [[22/02/2022]]
 # [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
-Took me 35:28 to come up with, but it doesn't work for some cases:
+Took me 35:28 to come up with, but it **doesn't work** for some cases:
 ```java
 class Solution {
     public int maxSubArray(int[] nums) {
