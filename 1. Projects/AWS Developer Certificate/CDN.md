@@ -10,5 +10,7 @@ When enabled, CloudFront creates an additional caching layer. All edge locations
 ![[Pasted image 20220224073939.png]]
 
 ### Signed URLs
+You can restrict access to CloudFront files, so that only
+To use Signed URLs, 
 
 ## How can CDN improve Live Streaming?
