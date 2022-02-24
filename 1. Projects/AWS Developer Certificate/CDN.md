@@ -9,4 +9,6 @@ When enabled, CloudFront creates an additional caching layer. All edge locations
 ![[Pasted image 20220224073858.png]]
 ![[Pasted image 20220224073939.png]]
 
+### Signed URLs
+
 ## How can CDN improve Live Streaming?
