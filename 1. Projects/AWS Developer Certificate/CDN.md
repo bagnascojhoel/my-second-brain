@@ -6,5 +6,7 @@ Temporary replication of data on locations, ideally, far from the server. Let's 
 ### Origin Shield
 When enabled, CloudFront creates an additional caching layer. All edge locations will go first to your Origin Shield cache. That means your origin will not have to process multiple times the same cacheable request just because different edge locations request it.
 
+![[Pasted image 20220224073858.png]]
+![[Pasted image 20220224073939.png]]
 
 ## How can CDN improve Live Streaming?

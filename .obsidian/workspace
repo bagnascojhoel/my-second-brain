@@ -7,9 +7,12 @@
         "id": "4f4ce670b2b1c478",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "Excalidraw/Drawing 2022-02-24 07.27.57.excalidraw.md"
+            "file": "1. Projects/AWS Developer Certificate/CDN.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
           }
         }
       }
@@ -47,13 +50,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2fcd36d9a1d22930",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2022-02-24 07.27.57.excalidraw.md",
+                "file": "1. Projects/AWS Developer Certificate/CDN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2022-02-24 07.27.57.excalidraw.md",
+                "file": "1. Projects/AWS Developer Certificate/CDN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,15 +113,15 @@
   },
   "active": "4f4ce670b2b1c478",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2022-02-24 07.27.57.excalidraw.md",
     "1. Projects/AWS Developer Certificate/CDN.md",
+    "1. Projects/AWS Developer Certificate/DNS.md",
+    "excalidraw/origin-shield.md",
+    "Excalidraw/Drawing 2022-02-24 07.31.09.excalidraw.md",
     "1. Projects/AWS Developer Certificate/Features Overview.md",
     "1. Projects/Leetcode Everyday/Day 9.md",
     "1. Projects/Leetcode Everyday/Day 8.md",
     "1. Projects/Leetcode Everyday/Day 5.md",
     "1. Projects/Personal Development Env./I3.md",
-    "1. Projects/Personal Development Env./Goal.md",
-    "1. Projects/Personal Development Env./Vimium.md",
-    "Untitled 1.md"
+    "1. Projects/Personal Development Env./Goal.md"
   ]
 }
