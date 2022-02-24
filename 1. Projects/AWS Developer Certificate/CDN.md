@@ -14,5 +14,6 @@ CloudFront allows you to access private S3 files using Origin Access Identity (O
 ### Signed URLs
 You can restrict access to CloudFront files to securely signed requests (URL or cookie). To have signed requests, you need a *signer*. This could be a trusted key group (recommended) or an AWS account.
 #to_continue
+https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/private-content-signed-urls.html#private-content-how-signed-urls-work
 https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/private-content-trusted-signers.html
 ## How can CDN improve Live Streaming?
