@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Projects/AWS Developer Certificate/Features Overview.md",
+            "file": "1. Projects/AWS Developer Certificate/CDN.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "section:(ami)",
+                "query": "cdn",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -55,7 +55,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2fcd36d9a1d22930",
@@ -71,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/AWS Developer Certificate/Features Overview.md",
+                "file": "1. Projects/AWS Developer Certificate/CDN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/AWS Developer Certificate/Features Overview.md",
+                "file": "1. Projects/AWS Developer Certificate/CDN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,6 +115,7 @@
   },
   "active": "4f4ce670b2b1c478",
   "lastOpenFiles": [
+    "1. Projects/AWS Developer Certificate/CDN.md",
     "1. Projects/AWS Developer Certificate/Features Overview.md",
     "1. Projects/Leetcode Everyday/Day 9.md",
     "1. Projects/Leetcode Everyday/Day 8.md",
@@ -122,7 +124,6 @@
     "1. Projects/Personal Development Env./Goal.md",
     "1. Projects/Personal Development Env./Vimium.md",
     "Untitled 1.md",
-    "2. Areas/Development Career/Golang.md",
-    "1. Projects/Leetcode Everyday/Day 4.md"
+    "2. Areas/Development Career/Golang.md"
   ]
 }
