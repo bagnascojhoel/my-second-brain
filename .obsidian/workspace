@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "4f4ce670b2b1c478",
+        "id": "58f3bafe5175fc93",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -112,17 +112,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4f4ce670b2b1c478",
+  "active": "58f3bafe5175fc93",
   "lastOpenFiles": [
     "1. Projects/AWS Developer Certificate/CDN.md",
     "1. Projects/AWS Developer Certificate/DNS.md",
+    "Signed URLs.md",
     "excalidraw/origin-shield.md",
     "Excalidraw/Drawing 2022-02-24 07.31.09.excalidraw.md",
     "1. Projects/AWS Developer Certificate/Features Overview.md",
     "1. Projects/Leetcode Everyday/Day 9.md",
     "1. Projects/Leetcode Everyday/Day 8.md",
     "1. Projects/Leetcode Everyday/Day 5.md",
-    "1. Projects/Personal Development Env./I3.md",
-    "1. Projects/Personal Development Env./Goal.md"
+    "1. Projects/Personal Development Env./I3.md"
   ]
 }
