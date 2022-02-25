@@ -13,6 +13,9 @@ When enabled, CloudFront creates an additional caching layer. All edge locations
 CloudFront allows you to access private S3 files using Origin Access Identity (OAI). That allows you to make those bucket files acessable only via CloudFront. You can further restrict access to those files with [[CDN#Signed URLs|Signed URLs]].
 
 ### Signed URLs
-You can restrict access to CloudFront files to securely signed requests (URL or cookie). To have signed requests, you need a *signer*. This could be a trusted key group (recommended) or an AWS account.
+You can restrict access to CloudFront files to securely signed requests (URL or cookie). To have signed requests, you need a *signer*. This could be a trusted key group (recommended) or an AWS account (this is not recommended because it means you would have to use your root AWS account to sign requests).
+
+### Cache key and origin requests
+The current recommendation is to use specific policies for each 
 
 ## How can CDN improve Live Streaming?
