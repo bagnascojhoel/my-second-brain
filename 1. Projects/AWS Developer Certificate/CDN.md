@@ -32,7 +32,11 @@ The last one Response Headers Policies allows you to manipulate headers returned
 
 ### Additional Settings
 - Smooth Streaming: this enables usage of Microsoft's IIS Live Smooth Streaming, if your origin has that enabled.
-- Field-level Encription: when your CDN supports POST methods and accepts only HTTPS, 
+- Field-level Encription: when your CDN supports POST methods and accepts only HTTPS, this feature can be enabled to encript data that your end-users send into those POST (and PUT) methods.
+- Real-time Logs: it delivers a stream of your logs to AWS Kinses. This can be configured to send only a percentage of the interactions of end-users, select extra fields you wish to send, the CDN Distribution to source from and some other configurations.
+
+## Function Associations
+Pick lambda or CloudFront functions to run at specific events
 
 ## How can CDN improve Live Streaming?
 
