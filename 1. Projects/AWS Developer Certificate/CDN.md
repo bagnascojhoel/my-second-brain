@@ -40,4 +40,8 @@ Pick lambda or CloudFront functions to run at specific events.
 ![[Pasted image 20220225072548.png]]
 
 ## How can CDN improve Live Streaming?
-Without a CDN each end-user has to request all the way to the origin. If there is a CDN, the user can communicate only with the edge location. Since the edge location won't have the content the user expects, it will then fetch it from the origin. This simply transfers the latency from end-user -> origin to end-user -> edge location -> origin. What is the benefit of that? Well, consider that you have a 300Mbps internet bandwidth. 
+Without a CDN each end-user has to request all the way to the origin. If there is a CDN, the user can communicate only with the edge location. Since the edge location won't have the content the user expects, it will then fetch it from the origin. This simply transfers the latency from end-user -> origin to end-user -> edge location -> origin. What is the benefit of that? Consider that you have a 300Mbps internet bandwidth. With a CDN, that will take effect only until the edge location, which should be a lot closer to you than the origin. Between edge location and  origin, the bandwidth and latency will be AWS responsability. That means 10 Gbps is a common thing. 
+
+```ad-info
+In this scenario, you can image the CDN not as the storage of your content, but as a highway to it
+```
