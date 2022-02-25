@@ -15,7 +15,13 @@ CloudFront allows you to access private S3 files using Origin Access Identity (O
 ### Signed URLs
 You can restrict access to CloudFront files to securely signed requests (URL or cookie). To have signed requests, you need a *signer*. This could be a trusted key group (recommended) or an AWS account (this is not recommended because it means you would have to use your root AWS account to sign requests).
 
-### Cache key and origin requests
-The current recommendation is to use specific policies for each 
+### Cache, Origin Requests and Response Headers Policies
+For Cache and Origin Requests, the current recommendation is to use specific policies for each one. But you can opt to use the legacy cache settings, which are a poorer version of the recommended approach. 
+In Cache Policies, you can define cache TTL, how the key is formed (the more fields included, the more restricted will your cache be) and which compressions should be used. 
+With Origin Requests Policies you'll be able to manipulate the incomming request's headers, query strings and cookies.
+
+
+The last one Response Headers Policies allows you to manipulate headers returned to the client. 
+![[Pasted image 20220225065532.png]]
 
 ## How can CDN improve Live Streaming?
