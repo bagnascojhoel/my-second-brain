@@ -36,7 +36,8 @@ The last one Response Headers Policies allows you to manipulate headers returned
 - Real-time Logs: it delivers a stream of your logs to AWS Kinses. This can be configured to send only a percentage of the interactions of end-users, select extra fields you wish to send, the CDN Distribution to source from and some other configurations.
 
 ## Function Associations
-Pick lambda or CloudFront functions to run at specific events
+Pick lambda or CloudFront functions to run at specific events.
+![[Pasted image 20220225072548.png]]
 
 ## How can CDN improve Live Streaming?
-
+Without a CDN each end-user has to request all the way to the origin. If there is a CDN, the user can communicate only with the edge location. Since the edge location won't have the content the user expects, it will then fetch it from the origin. This simply transfers the latency from end-user -> origin to end-user -> edge location -> origin. What is the benefit of that? Well, consider that you have a 300Mbps internet bandwidth. 
