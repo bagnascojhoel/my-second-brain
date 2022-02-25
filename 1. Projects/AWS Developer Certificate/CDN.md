@@ -17,11 +17,18 @@ You can restrict access to CloudFront files to securely signed requests (URL or 
 
 ### Cache, Origin Requests and Response Headers Policies
 For Cache and Origin Requests, the current recommendation is to use specific policies for each one. But you can opt to use the legacy cache settings, which are a poorer version of the recommended approach. 
-In Cache Policies, you can define cache TTL, how the key is formed (the more fields included, the more restricted will your cache be) and which compressions should be used. 
-With Origin Requests Policies you'll be able to manipulate the incomming request's headers, query strings and cookies.
 
+In Cache Policies, you can define cache TTL, how the key is formed (the more fields included, the more restricted will your cache be) and which compressions should be used. 
+![[Pasted image 20220225065627.png]]
+
+With Origin Requests Policies you'll be able to manipulate the incomming request's headers, query strings and cookies.
+![[Pasted image 20220225065559.png]]
 
 The last one Response Headers Policies allows you to manipulate headers returned to the client. 
 ![[Pasted image 20220225065532.png]]
 
+
+
 ## How can CDN improve Live Streaming?
+
+### Additional 
