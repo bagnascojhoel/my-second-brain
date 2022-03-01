@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2. Areas/Development Career/WebSocket.md",
+            "file": "1. Projects/AWS Developer Certificate/Features Overview.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Areas/Development Career/WebSocket.md",
+                "file": "1. Projects/AWS Developer Certificate/Features Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Areas/Development Career/WebSocket.md",
+                "file": "1. Projects/AWS Developer Certificate/Features Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,15 +113,15 @@
   },
   "active": "f224019dd7aa0851",
   "lastOpenFiles": [
+    "1. Projects/AWS Developer Certificate/Features Overview.md",
+    "1. Projects/AWS Developer Certificate/Untitled.md",
+    "aws.md",
     "2. Areas/Development Career/WebSocket.md",
     "1. Projects/Leetcode Everyday/Day 1.md",
     "1. Projects/Leetcode Everyday/Day 2.md",
     "1. Projects/Leetcode Everyday/Day 3.md",
     "1. Projects/Leetcode Everyday/Day 4.md",
     "1. Projects/Leetcode Everyday/Day 5.md",
-    "day 7.md",
-    "1. Projects/Leetcode Everyday/Day 8.md",
-    "1. Projects/Leetcode Everyday/Day 9.md",
-    "2. Areas/Development Career/Backtracking.md"
+    "day 7.md"
   ]
 }

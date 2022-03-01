@@ -22,3 +22,5 @@ Create AWS managed GraphQL APIs. You define your data source, which can be a Dyn
 - must retrieve information from many different data sources.
 
 ## DynamoDB
+## API Gateway
+Allows the creation of an HTTP or WebSocket API. It can provide a set o features to manage an API. Such as monitoring, IAM or Cognito authentication and cache. For HTTP APIs, you can even use edge locations,  new interface to an existing application
