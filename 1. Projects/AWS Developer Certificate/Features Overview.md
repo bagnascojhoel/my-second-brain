@@ -14,3 +14,4 @@ Should be used to store and manage application parameters, such as database stri
 As the name says, it is used to store and manage secrets. It has some inate integrations to other AWS features. You can configure it to have a [schedule for automatic rotating for a secret](https://docs.aws.amazon.com/secretsmanager/latest/userguide/rotating-secrets.html). 
 
 ![[Pasted image 20220223072550.png]]
+## AppSync
