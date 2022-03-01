@@ -1,4 +1,4 @@
-#leetcode #development_career #java #data_structures 
+#leetcode #development_career #java #data_structure
 
 [[22/02/2022]]
 # [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)

@@ -1,4 +1,4 @@
-#leetcode #development_career #go #data_structures
+#leetcode #development_career #go #data_structure
 
 [[21/02/2022]]
 # [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)

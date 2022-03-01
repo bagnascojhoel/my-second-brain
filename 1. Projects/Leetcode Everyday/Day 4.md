@@ -1,4 +1,4 @@
-#leetcode #development_career #go #backtracking
+#leetcode #development_career #go 
 
 [[17/02/2022]]
 # [Combination Sum](https://leetcode.com/problems/combination-sum/)
