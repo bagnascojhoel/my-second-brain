@@ -16,4 +16,4 @@ As the name says, it is used to store and manage secrets. It has some inate inte
 ![[Pasted image 20220223072550.png]]
 
 ## AppSync
-Create AWS managed GraphQL APIs. They can connect to many AWS data sources, scale on-demand, caching and client-side storage for offline devices.
+Create AWS managed GraphQL APIs. You define your data source, which can be a DynamoDB table, an OpenSearch domain, a Lambda function, a relational database or a HTTP endpoint. AWS will handle all infrastructure, scale on-demand, caching and client-side storage for offline devices.
