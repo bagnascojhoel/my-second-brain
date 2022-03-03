@@ -20,7 +20,9 @@ Create AWS managed GraphQL APIs. You define your data source, which can be a Dyn
 - need real-time data updates;
 - if a message is sent while offline, once the user has internet again, the message will be sent;
 - must retrieve information from many different data sources.
-- 
 ## API Gateway
 Allows the creation of an HTTP or WebSocket API. It can provide a set o features to manage an API. Such as monitoring, IAM or Cognito authentication, many AWS services requests, HTTP requests, VPC private APIs and cache. For HTTP APIs, you can even use edge locations.
 A use case is to provide a new interface to an existing application.
+
+## Elastic Beanstalk
+Web application helper for configuration and management. You select the platform and upload your code. 
