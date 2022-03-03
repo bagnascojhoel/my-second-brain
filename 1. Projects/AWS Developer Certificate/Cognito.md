@@ -5,3 +5,4 @@ Secure Identity and Access Management for Apps
 ## User Pools
 
 ## Identity Pools
+Identity Pools are used to authorize access for AWS Services.
