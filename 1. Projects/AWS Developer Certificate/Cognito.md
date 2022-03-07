@@ -9,5 +9,6 @@ User management for your system.
 
 ## Identity Pools
 Identity Pools are used to authorize access for AWS Services.
+- 
 #todo
 https://docs.aws.amazon.com/cognito/latest/developerguide/cognito-scenarios.html
