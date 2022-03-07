@@ -3,6 +3,7 @@
 Secure Identity and Access Management for Apps
 ```
 ## User Pools
+User management for your system.
 - Can act as an intermediate between your user and their Social Sign-In, OIDC, SAML.
 - Provide authentication tokens for users and manage these users.
 
