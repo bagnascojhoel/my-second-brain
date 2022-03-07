@@ -29,4 +29,4 @@ A use case is to provide a new interface to an existing application.
 Web application helper for configuration and management. You select the platform and upload your code. If you want, Amazon will then take care of configuring the Instances, Capacity, Load Balancer, Application Deployments and Software Updates, Monitoring, Database and notifications. Otherwise, you'll be able to select between some preset environment configuration or customize your own. 
 
 ## Pinpoint
-Send e-mails, SMS, and push notifications to users. You can integrate with your web or mobile  It can integrate with Cognito to dynamically input user data. 
+Send e-mails, SMS, and push notifications to users. You can integrate with your web or mobile application to collect analytics data, create funnels and send targetted campaing messages. If you use Cognito, you may also dynamically input user data into the messages. 
