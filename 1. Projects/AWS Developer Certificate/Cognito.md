@@ -3,8 +3,8 @@
 Secure Identity and Access Management for Apps
 ```
 ## User Pools
-- Can act as a intermediate between your user and their Social Sign-In, OIDC, SAML.
-- 
+- Can act as an intermediate between your user and their Social Sign-In, OIDC, SAML.
+- Provide authentication tokens for users and manage these users.
 
 ## Identity Pools
 Identity Pools are used to authorize access for AWS Services.
