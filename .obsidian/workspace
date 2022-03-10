@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d525c88711603df9",
+        "id": "6438aef3455099ec",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2. Areas/Development Career/Reverse Proxy.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -70,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Areas/Development Career/Reverse Proxy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Areas/Development Career/Reverse Proxy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +104,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d525c88711603df9",
+  "active": "6438aef3455099ec",
   "lastOpenFiles": [
     "2. Areas/Development Career/Reverse Proxy.md",
     "1. Projects/AWS Developer Certificate/Cognito.md",
