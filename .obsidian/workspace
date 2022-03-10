@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2. Areas/Development Career/Untitled.md",
+            "file": "2. Areas/Development Career/Reverse Proxy.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Areas/Development Career/Untitled.md",
+                "file": "2. Areas/Development Career/Reverse Proxy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Areas/Development Career/Untitled.md",
+                "file": "2. Areas/Development Career/Reverse Proxy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
   },
   "active": "d525c88711603df9",
   "lastOpenFiles": [
-    "2. Areas/Development Career/Untitled.md",
+    "2. Areas/Development Career/Reverse Proxy.md",
     "1. Projects/AWS Developer Certificate/Cognito.md",
     "1. Projects/AWS Developer Certificate/Features Overview.md",
     "aws.md",
