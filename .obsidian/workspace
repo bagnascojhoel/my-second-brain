@@ -7,8 +7,13 @@
         "id": "6438aef3455099ec",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "1. Projects/AWS Developer Certificate/Lambda.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1. Projects/AWS Developer Certificate/Lambda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,6 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1. Projects/AWS Developer Certificate/Lambda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,6 +113,7 @@
   },
   "active": "6438aef3455099ec",
   "lastOpenFiles": [
+    "1. Projects/AWS Developer Certificate/Lambda.md",
     "2. Areas/Development Career/Reverse Proxy.md",
     "1. Projects/AWS Developer Certificate/Cognito.md",
     "1. Projects/AWS Developer Certificate/Features Overview.md",
@@ -114,7 +122,6 @@
     "1. Projects/Leetcode Everyday/Day 1.md",
     "1. Projects/Leetcode Everyday/Day 2.md",
     "1. Projects/Leetcode Everyday/Day 3.md",
-    "1. Projects/Leetcode Everyday/Day 4.md",
-    "1. Projects/Leetcode Everyday/Day 5.md"
+    "1. Projects/Leetcode Everyday/Day 4.md"
   ]
 }
