@@ -7,12 +7,9 @@
         "id": "6438aef3455099ec",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "2. Areas/Development Career/Architecture.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
+            "file": "excalidraw/mvc-architecture.md"
           }
         }
       }
@@ -70,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Areas/Development Career/Architecture.md",
+                "file": "excalidraw/mvc-architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +84,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Areas/Development Career/Architecture.md",
+                "file": "excalidraw/mvc-architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,15 +110,15 @@
   },
   "active": "6438aef3455099ec",
   "lastOpenFiles": [
+    "excalidraw/mvc-architecture.md",
+    "excalidraw/origin-shield.md",
+    "excalidraw/mvc-architecture.excalidraw",
     "2. Areas/Development Career/Architecture.md",
+    "excalidraw/Drawing 2022-03-25 12.17.41.excalidraw.md",
     "2. Areas/Development Career/Spring.md",
     "2. Areas/Development Career/API Design.md",
     "1. Projects/AWS Developer Certificate/Lambda.md",
     "2. Areas/Development Career/Reverse Proxy.md",
-    "1. Projects/AWS Developer Certificate/Cognito.md",
-    "1. Projects/AWS Developer Certificate/Features Overview.md",
-    "aws.md",
-    "2. Areas/Development Career/WebSocket.md",
-    "1. Projects/Leetcode Everyday/Day 1.md"
+    "1. Projects/AWS Developer Certificate/Cognito.md"
   ]
 }
