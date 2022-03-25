@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2. Areas/Development Career/Architecture.md",
+            "file": "2. Areas/Development Career/Design Patterns.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Areas/Development Career/Architecture.md",
+                "file": "2. Areas/Development Career/Design Patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Areas/Development Career/Architecture.md",
+                "file": "2. Areas/Development Career/Design Patterns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,15 +113,15 @@
   },
   "active": "b8767578110de2f2",
   "lastOpenFiles": [
+    "2. Areas/Development Career/Design Patterns.md",
     "2. Areas/Development Career/Architecture.md",
+    "2. Areas/Development Career/Spring.md",
     "excalidraw/mvc-architecture.excalidraw",
     "excalidraw/mvc-architecture.md",
     "excalidraw/origin-shield.md",
     "excalidraw/origin-shield.excalidraw",
     "2. Areas/Development Career/General Advices.md",
     "2. Areas/Development Career/API Design.md",
-    "excalidraw/Drawing 2022-03-25 12.17.41.excalidraw.md",
-    "2. Areas/Development Career/Spring.md",
-    "1. Projects/AWS Developer Certificate/Lambda.md"
+    "excalidraw/Drawing 2022-03-25 12.17.41.excalidraw.md"
   ]
 }
