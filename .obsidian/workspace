@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6438aef3455099ec",
+        "id": "09badd59e2c656ec",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "excalidraw/mvc-architecture.md"
+            "file": "2. Areas/Development Career/API Design.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
           }
         }
       }
@@ -67,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "excalidraw/mvc-architecture.md",
+                "file": "2. Areas/Development Career/API Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "excalidraw/mvc-architecture.md",
+                "file": "2. Areas/Development Career/API Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,15 +111,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6438aef3455099ec",
+  "active": "09badd59e2c656ec",
   "lastOpenFiles": [
+    "2. Areas/Development Career/API Design.md",
     "excalidraw/mvc-architecture.md",
     "excalidraw/origin-shield.md",
     "excalidraw/mvc-architecture.excalidraw",
     "2. Areas/Development Career/Architecture.md",
     "excalidraw/Drawing 2022-03-25 12.17.41.excalidraw.md",
     "2. Areas/Development Career/Spring.md",
-    "2. Areas/Development Career/API Design.md",
     "1. Projects/AWS Developer Certificate/Lambda.md",
     "2. Areas/Development Career/Reverse Proxy.md",
     "1. Projects/AWS Developer Certificate/Cognito.md"
