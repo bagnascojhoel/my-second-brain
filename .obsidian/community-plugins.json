@@ -8,8 +8,7 @@
   "nldates-obsidian",
   "url-into-selection",
   "obsidian-languagetool-plugin",
-  "obsidian-admonition",
-  "templater-obsidian",
   "buttons",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian-admonition"
 ]
