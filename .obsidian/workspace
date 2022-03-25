@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2. Areas/Development Career/Spring.md",
+            "file": "2. Areas/Development Career/Architecture.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Areas/Development Career/Spring.md",
+                "file": "2. Areas/Development Career/Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Areas/Development Career/Spring.md",
+                "file": "2. Areas/Development Career/Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,6 +113,7 @@
   },
   "active": "6438aef3455099ec",
   "lastOpenFiles": [
+    "2. Areas/Development Career/Architecture.md",
     "2. Areas/Development Career/Spring.md",
     "2. Areas/Development Career/API Design.md",
     "1. Projects/AWS Developer Certificate/Lambda.md",
@@ -121,7 +122,6 @@
     "1. Projects/AWS Developer Certificate/Features Overview.md",
     "aws.md",
     "2. Areas/Development Career/WebSocket.md",
-    "1. Projects/Leetcode Everyday/Day 1.md",
-    "1. Projects/Leetcode Everyday/Day 2.md"
+    "1. Projects/Leetcode Everyday/Day 1.md"
   ]
 }
