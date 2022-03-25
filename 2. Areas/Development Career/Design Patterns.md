@@ -1,9 +1,12 @@
 # Design Patterns
-## For persistency
 ### DAO (Data Access Object)
-An interface for persistency centered around a database table.
+It is an abstraction layer built around **database tables**.
+
 ![[Pasted image 20220325171157.png]]
 
 ### Repository
-It is a persistency interface abstracted around an entity. It should take care of everything related to persisted data.
+It is a layer of abstraction that encapsulates storage, retrieval and search of a **collection of objects**.
+
 ![[Pasted image 20220325171500.png]]
+```admonion
+```
