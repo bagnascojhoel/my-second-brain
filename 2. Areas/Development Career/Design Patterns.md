@@ -1,6 +1,6 @@
 # DAO vs Repository
 The definition of each concept ends up being equal in many contexts. Even so, they do have some differences ([this StackOverflow post shows exactly how confusing it can be when trying to understand their use cases](https://stackoverflow.com/questions/8550124/what-is-the-difference-between-dao-and-repository-patterns)). Before going into the differences, we should listen their similarities:
-- both are DAL (Data Access Layer);
+- both are DAL (Data Access Layer), which means they hide the datasource implementation from the client;
 - both don't care about how data is stored.
 
 ### Repository
@@ -22,4 +22,5 @@ It is an abstraction layer built around **a single object**.
 ## Sources
 - [What is the difference between DAO and Repository patterns?](https://stackoverflow.com/a/14967950/13158496)
 - [Think to code, Repository Pattern](https://www.thinktocode.com/2018/01/08/repository-pattern/)
+- [Core J2EE Patterns - Data Access Object](https://www.oracle.com/java/technologies/dataaccessobject.html)
 - 
