@@ -11,6 +11,6 @@ It is a layer of abstraction that encapsulates storage, retrieval and search of 
 ```ad-note
 title: DAO vs Repository
 
-DAO is aof your persistency.
+DAO is a interface of the persistency mechanism for an object. On the other hand, a Repository is an interface for everything related to storage, retrieval and search of 
 ```
 
