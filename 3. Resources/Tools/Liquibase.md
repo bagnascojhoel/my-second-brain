@@ -1,6 +1,7 @@
 # Liquibase
 An application that uses a database to persist some data, has to ensure every change is known and ran for every database it connects to. Otherwise, your databases will start to be incosistent.
-Let's say you are developing a blog. Your blog allows people to create accounts to publish their own posts or interact with other users' posts. To make sure The blog is already published. So your database already has (hopefully) many records on a users.
+Let's say you are developing a blog. Your blog allows people to create accounts to publish their own posts or interact with other users' posts. To make sure no one ends up accessing a collum that does not exists, you decide to use a schema.
+The blog is already published. So your database already has (hopefully) many records on a users table (or whatever name your no-relational databases uses). You 
 running on a AWS EC2 instance and 
 A local database may have a table `user` with properties `first_name` and `last_name`,   
 ![[Pasted image 20220326103824.png]]
