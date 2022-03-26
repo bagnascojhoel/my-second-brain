@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2. Areas/Development Career/Design Patterns.md",
+            "file": "3. Resources/Tools/Liquibase.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Areas/Development Career/Design Patterns.md",
+                "file": "3. Resources/Tools/Liquibase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Areas/Development Career/Design Patterns.md",
+                "file": "3. Resources/Tools/Liquibase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,6 +113,8 @@
   },
   "active": "a1f7973fe1389ee6",
   "lastOpenFiles": [
+    "3. Resources/Tools/Liquibase.md",
+    "2. Areas/Development Career/Untitled.md",
     "2. Areas/Development Career/Design Patterns.md",
     "excalidraw/dao-pattern.excalidraw",
     "2. Areas/Development Career/Architecture.md",
@@ -120,8 +122,6 @@
     "excalidraw/mvc-architecture.excalidraw",
     "excalidraw/mvc-architecture.md",
     "excalidraw/origin-shield.md",
-    "excalidraw/origin-shield.excalidraw",
-    "2. Areas/Development Career/General Advices.md",
-    "2. Areas/Development Career/API Design.md"
+    "excalidraw/origin-shield.excalidraw"
   ]
 }
