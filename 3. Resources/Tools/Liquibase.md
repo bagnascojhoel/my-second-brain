@@ -14,3 +14,4 @@ A local database may have a table `user` with properties `first_name` and `last_
 
 ### Sources
 - [Some best practices to keep in mind when using Liquibase](https://liquibase.org/get-started/best-practices)
+- [Dealing with Changing Changesets](https://www.liquibase.com/blog/dealing-with-changing-changesets)
