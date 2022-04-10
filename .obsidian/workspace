@@ -7,8 +7,13 @@
         "id": "a1f7973fe1389ee6",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "2. Areas/Design/Text and Button Sizing.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2. Areas/Design/Text and Button Sizing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,6 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2. Areas/Design/Text and Button Sizing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,8 +113,8 @@
   },
   "active": "a1f7973fe1389ee6",
   "lastOpenFiles": [
-    "1. Projects/Korrespah/Wire-Frame.md",
     "2. Areas/Design/Text and Button Sizing.md",
+    "1. Projects/Korrespah/Wire-Frame.md",
     "3. Resources/Tools/Liquibase.md",
     "2. Areas/Development Career/Untitled.md",
     "2. Areas/Development Career/Design Patterns.md",
