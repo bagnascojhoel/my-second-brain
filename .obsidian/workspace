@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2. Areas/Design/Text and Button Sizing.md",
+            "file": "1. Projects/OAuth 2.1/Main.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Areas/Design/Text and Button Sizing.md",
+                "file": "1. Projects/OAuth 2.1/Main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Areas/Design/Text and Button Sizing.md",
+                "file": "1. Projects/OAuth 2.1/Main.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,6 +113,7 @@
   },
   "active": "a1f7973fe1389ee6",
   "lastOpenFiles": [
+    "1. Projects/OAuth 2.1/Main.md",
     "2. Areas/Design/Text and Button Sizing.md",
     "1. Projects/Korrespah/Wire-Frame.md",
     "3. Resources/Tools/Liquibase.md",
@@ -121,7 +122,6 @@
     "excalidraw/dao-pattern.excalidraw",
     "2. Areas/Development Career/Architecture.md",
     "2. Areas/Development Career/Spring.md",
-    "excalidraw/mvc-architecture.excalidraw",
-    "excalidraw/mvc-architecture.md"
+    "excalidraw/mvc-architecture.excalidraw"
   ]
 }
