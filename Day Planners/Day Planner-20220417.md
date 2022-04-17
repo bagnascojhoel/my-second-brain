@@ -3,11 +3,11 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 12:29:55 PM
+    %% Current Time: 2:19:30 PM
     section Tasks
-    Organizar estudos     :10-00, 120mm
-    Hang clothes     :12-00, 20mm
-    Lunch     :12-20, 100mm
+    Organizar estudos     :10-00, 155mm
+    Hang clothes     :12-35, 10mm
+    Lunch     :12-45, 75mm
     NextLevelWeek - Expanse     :14-00, 60mm
     Korrespah     :15-30, 60mm
     Design Patterns GOF     :17-00, 60mm
@@ -23,8 +23,8 @@ gantt
 - [x] 10:00 Organizar estudos
 
 ## After midday
-- [x] 12:00 Hang clothes
-- [ ] 12:20 Lunch
+- [x] 12:35 Hang clothes
+- [x] 12:45 Lunch
 - [ ] 14:00 NextLevelWeek - Expanse
 - [ ] 15:00 BREAK
 - [ ] 15:30 Korrespah
