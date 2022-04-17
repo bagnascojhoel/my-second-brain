@@ -7,9 +7,12 @@
         "id": "eff1d31557ceaa43",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "1. Projects/Korrespah/Board.md"
+            "file": "1. Projects/OAuth 2.1/Roles in OAuth.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
           }
         }
       }
@@ -98,15 +101,15 @@
   },
   "active": "eff1d31557ceaa43",
   "lastOpenFiles": [
+    "1. Projects/OAuth 2.1/Roles in OAuth.md",
+    "1. Projects/OAuth 2.1/Cookie-Based Authentication.md",
+    "1. Projects/OAuth 2.1/Board.md",
     "1. Projects/Korrespah/Board.md",
     "1. Projects/NextLevelWeek - Expanse/Board.md",
     "Day Planners/Day Planner-20220417.md",
     "templates/Day Planner - Working Day.md",
-    "1. Projects/OAuth 2.1/Board.md",
     "1. Projects/NextLevelWeek - Expanse/Stage 1.md",
     "templates/leetcode_everyday-page.md",
-    "Calendar.md",
-    "1. Projects/Design Patterns GOF/Board.md",
-    "1. Projects/Korrespah/Untitled.md"
+    "Calendar.md"
   ]
 }
