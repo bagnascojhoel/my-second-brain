@@ -3,7 +3,7 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 12:23:47 PM
+    %% Current Time: 12:29:55 PM
     section Tasks
     Organizar estudos     :10-00, 120mm
     Hang clothes     :12-00, 20mm
