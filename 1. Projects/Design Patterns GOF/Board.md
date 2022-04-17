@@ -6,10 +6,21 @@ kanban-plugin: basic
 
 ## To learn
 
+- [ ] Bridge
+- [ ] Composite
+- [ ] Decorator
+- [ ] Façade X Proxy X Adapter
 
 
-## To review
+## To write a review
 
+- [ ] Abstract Factory
+- [ ] Builder
+- [ ] Factory Method
+- [ ] Prototype
+- [ ] Singleton
+- [ ] Adapter
+- [ ] Flyweight
 
 
 ## Done
