@@ -3,11 +3,10 @@
   "note-refactor-obsidian",
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-kanban",
-  "obsidian-outliner",
   "obsidian-image-toolkit",
-  "nldates-obsidian",
   "url-into-selection",
   "obsidian-languagetool-plugin",
-  "buttons",
-  "obsidian-admonition"
+  "obsidian-admonition",
+  "obsidian-excalidraw-plugin",
+  "obsidian-day-planner"
 ]
