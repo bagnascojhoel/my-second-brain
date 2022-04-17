@@ -9,7 +9,7 @@
         "state": {
           "type": "kanban",
           "state": {
-            "file": "1. Projects/NextLevelWeek - Expanse/Board.md"
+            "file": "1. Projects/Korrespah/Board.md"
           }
         }
       }
@@ -67,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/NextLevelWeek - Expanse/Board.md",
+                "file": "1. Projects/Korrespah/Board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,7 +84,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/NextLevelWeek - Expanse/Board.md",
+                "file": "1. Projects/Korrespah/Board.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,6 +110,8 @@
   },
   "active": "a1f7973fe1389ee6",
   "lastOpenFiles": [
+    "1. Projects/Korrespah/Board.md",
+    "1. Projects/Korrespah/Untitled.md",
     "1. Projects/NextLevelWeek - Expanse/Board.md",
     "1. Projects/NextLevelWeek - Expanse/Stage 1.md",
     "1. Projects/OAuth 2.1/Main.md",
@@ -117,8 +119,6 @@
     "1. Projects/Korrespah/Wire-Frame.md",
     "3. Resources/Tools/Liquibase.md",
     "2. Areas/Development Career/Untitled.md",
-    "2. Areas/Development Career/Design Patterns.md",
-    "excalidraw/dao-pattern.excalidraw",
-    "2. Areas/Development Career/Architecture.md"
+    "2. Areas/Development Career/Design Patterns.md"
   ]
 }
