@@ -7,9 +7,12 @@
         "id": "a1f7973fe1389ee6",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "1. Projects/Design Patterns GOF/Board.md"
+            "file": "Calendar.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
           }
         }
       }
@@ -51,8 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2fcd36d9a1d22930",
@@ -68,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/Design Patterns GOF/Board.md",
+                "file": "Calendar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/Design Patterns GOF/Board.md",
+                "file": "Calendar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,6 +113,8 @@
   },
   "active": "a1f7973fe1389ee6",
   "lastOpenFiles": [
+    "Calendar.md",
+    "1. Projects/OAuth 2.1/Board.md",
     "1. Projects/Design Patterns GOF/Board.md",
     "1. Projects/Korrespah/Board.md",
     "1. Projects/Korrespah/Untitled.md",
@@ -118,8 +122,6 @@
     "1. Projects/NextLevelWeek - Expanse/Stage 1.md",
     "1. Projects/OAuth 2.1/Main.md",
     "2. Areas/Design/Text and Button Sizing.md",
-    "1. Projects/Korrespah/Wire-Frame.md",
-    "3. Resources/Tools/Liquibase.md",
-    "2. Areas/Development Career/Untitled.md"
+    "1. Projects/Korrespah/Wire-Frame.md"
   ]
 }

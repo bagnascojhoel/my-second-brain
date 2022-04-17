@@ -9,7 +9,13 @@ kanban-plugin: basic
 - [ ] Bridge
 - [ ] Composite
 - [ ] Decorator
-- [ ] Façade X Proxy X Adapter
+- [ ] Chain of Responsability
+- [ ] Command
+- [ ] Interpreter
+- [ ] Mediator
+- [ ] Memento
+- [ ] State
+- [ ] Visitor
 
 
 ## To write a review
@@ -21,6 +27,10 @@ kanban-plugin: basic
 - [ ] Singleton
 - [ ] Adapter
 - [ ] Flyweight
+- [ ] Iterator
+- [ ] Observer
+- [ ] Strategy X Factory Method X Template Method
+- [ ] Façade X Proxy X Adapter
 
 
 ## Done
