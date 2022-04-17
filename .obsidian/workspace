@@ -9,7 +9,7 @@
         "state": {
           "type": "kanban",
           "state": {
-            "file": "1. Projects/NextLevelWeek - Expanse/Board.md"
+            "file": "1. Projects/Korrespah/Board.md"
           }
         }
       }
@@ -51,7 +51,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2fcd36d9a1d22930",
@@ -97,12 +98,12 @@
   },
   "active": "eff1d31557ceaa43",
   "lastOpenFiles": [
+    "1. Projects/Korrespah/Board.md",
     "1. Projects/NextLevelWeek - Expanse/Board.md",
     "Day Planners/Day Planner-20220417.md",
     "templates/Day Planner - Working Day.md",
     "1. Projects/OAuth 2.1/Board.md",
     "1. Projects/NextLevelWeek - Expanse/Stage 1.md",
-    "1. Projects/Korrespah/Board.md",
     "templates/leetcode_everyday-page.md",
     "Calendar.md",
     "1. Projects/Design Patterns GOF/Board.md",
