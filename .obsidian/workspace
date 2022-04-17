@@ -7,12 +7,9 @@
         "id": "a1f7973fe1389ee6",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "1. Projects/OAuth 2.1/Main.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
+            "file": "1. Projects/NextLevelWeek - Expanse/Board.md"
           }
         }
       }
@@ -70,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/OAuth 2.1/Main.md",
+                "file": "1. Projects/NextLevelWeek - Expanse/Board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +84,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/OAuth 2.1/Main.md",
+                "file": "1. Projects/NextLevelWeek - Expanse/Board.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,6 +110,8 @@
   },
   "active": "a1f7973fe1389ee6",
   "lastOpenFiles": [
+    "1. Projects/NextLevelWeek - Expanse/Board.md",
+    "1. Projects/NextLevelWeek - Expanse/Stage 1.md",
     "1. Projects/OAuth 2.1/Main.md",
     "2. Areas/Design/Text and Button Sizing.md",
     "1. Projects/Korrespah/Wire-Frame.md",
@@ -120,8 +119,6 @@
     "2. Areas/Development Career/Untitled.md",
     "2. Areas/Development Career/Design Patterns.md",
     "excalidraw/dao-pattern.excalidraw",
-    "2. Areas/Development Career/Architecture.md",
-    "2. Areas/Development Career/Spring.md",
-    "excalidraw/mvc-architecture.excalidraw"
+    "2. Areas/Development Career/Architecture.md"
   ]
 }
