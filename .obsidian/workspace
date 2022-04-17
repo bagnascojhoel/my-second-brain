@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Day Planners/Day Planner-20220417.md",
+            "file": "templates/Day Planner - Working Day.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -61,9 +61,24 @@
     "type": "split",
     "children": [
       {
-        "id": "cec0f5c725fec8ea",
+        "id": "d55910dc7a621420",
         "type": "tabs",
-        "dimension": 19.821605550049554,
+        "dimension": 87.146529562982,
+        "children": [
+          {
+            "id": "53450470d99146a8",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "c25a7a30c682231d",
+        "type": "tabs",
+        "dimension": 12.853470437017995,
         "children": [
           {
             "id": "0bbe4d5606a296a9",
@@ -72,23 +87,8 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "d55910dc7a621420",
-        "type": "tabs",
-        "dimension": 80.17839444995045,
-        "children": [
-          {
-            "id": "53450470d99146a8",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {}
             }
           }
         ]
@@ -100,6 +100,7 @@
   },
   "active": "eff1d31557ceaa43",
   "lastOpenFiles": [
+    "templates/Day Planner - Working Day.md",
     "Day Planners/Day Planner-20220417.md",
     "1. Projects/OAuth 2.1/Board.md",
     "1. Projects/NextLevelWeek - Expanse/Stage 1.md",
@@ -108,7 +109,6 @@
     "templates/leetcode_everyday-page.md",
     "Calendar.md",
     "1. Projects/Design Patterns GOF/Board.md",
-    "1. Projects/Korrespah/Untitled.md",
-    "1. Projects/OAuth 2.1/Main.md"
+    "1. Projects/Korrespah/Untitled.md"
   ]
 }

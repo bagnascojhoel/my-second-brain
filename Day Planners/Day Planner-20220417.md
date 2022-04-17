@@ -1,11 +1,36 @@
 ## Day Planner
+```mermaid
+gantt
+    dateFormat  HH-mm
+    axisFormat %H:%M
+    %% Current Time: 12:13:49 PM
+    section Tasks
+    Organizar estudos     :10-00, 120mm
+    Hang clothes     :12-00, 20mm
+    Lunch     :12-20, 100mm
+    NextLevelWeek - Expanse     :14-00, 60mm
+    Korrespah     :15-30, 60mm
+    Design Patterns GOF     :17-00, 60mm
+    OAuth 2.0     :19-00, 60mm
+    Windown     :20-00, 0mm
+    section Breaks
+    BREAK     :15-00, 30mm
+    BREAK     :16-30, 30mm
+    BREAK     :18-00, 60mm
+```
+
 ## Before midday
 - [x] 10:00 Organizar estudos
 
 ## After midday
-- [ ] 12:00 Lunch
-- [ ] 14:00 Korrespah
+- [ ] 12:00 Hang clothes
+- [ ] 12:20 Lunch
+- [ ] 14:00 NextLevelWeek - Expanse
 - [ ] 15:00 BREAK
-- [ ] 15:30 OAuth 2.0
+- [ ] 15:30 Korrespah
 - [ ] 16:30 BREAK
-- [ ] 17:00 NextLevelWeek - Expanse
+- [ ] 17:00 Design Patterns GOF
+- [ ] 18:00 BREAK
+## After dusk
+- [ ] 19:00 OAuth 2.0
+- [ ] 20:00 Windown
