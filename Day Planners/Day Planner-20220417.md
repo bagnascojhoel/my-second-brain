@@ -3,7 +3,7 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 5:59:32 PM
+    %% Current Time: 6:09:32 PM
     section Tasks
     Organizar estudos     :10-00, 155mm
     Hang clothes     :12-35, 10mm
@@ -29,7 +29,7 @@ gantt
 - [x] 15:00 BREAK
 - [x] 15:30 NextLevelWeek Expanse
 - [x] 16:30 BREAK
-- [ ] 17:00 Korrespah
+- [x] 17:00 Korrespah
 - [ ] 18:00 BREAK
 ## After dusk
 - [ ] 19:00 OAuth 2.0
