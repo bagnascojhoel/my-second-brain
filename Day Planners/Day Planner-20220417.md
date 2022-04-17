@@ -3,14 +3,14 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 3:09:32 PM
+    %% Current Time: 3:19:32 PM
     section Tasks
     Organizar estudos     :10-00, 155mm
     Hang clothes     :12-35, 10mm
     Lunch     :12-45, 75mm
     NextLevelWeek - Expanse     :14-00, 60mm
-    Korrespah     :15-30, 60mm
-    Design Patterns GOF     :17-00, 60mm
+    NextLevelWeek Expanse     :15-30, 60mm
+    Korrespah     :17-00, 60mm
     OAuth 2.0     :19-00, 60mm
     Windown     :20-00, 0mm
     section Breaks
@@ -27,9 +27,9 @@ gantt
 - [x] 12:45 Lunch
 - [x] 14:00 NextLevelWeek - Expanse
 - [ ] 15:00 BREAK
-- [ ] 15:30 Korrespah
+- [ ] 15:30 NextLevelWeek Expanse
 - [ ] 16:30 BREAK
-- [ ] 17:00 Design Patterns GOF
+- [ ] 17:00 Korrespah
 - [ ] 18:00 BREAK
 ## After dusk
 - [ ] 19:00 OAuth 2.0
