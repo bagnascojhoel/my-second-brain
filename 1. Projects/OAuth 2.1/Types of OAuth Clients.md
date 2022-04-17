@@ -1,0 +1,2 @@
+- **Confidential**: if the application can be deployed with credentials, securely.
+- **Public**

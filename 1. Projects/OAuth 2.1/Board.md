@@ -11,7 +11,6 @@ kanban-plugin: basic
 ## To write about
 
 - [ ] OAuth X OpenID Connect (OIDC)
-- [ ] Roles in OAuth
 - [ ] Application Types
 - [ ] User Consent
 - [ ] Front Channel X Back Channel
@@ -21,6 +20,7 @@ kanban-plugin: basic
 ## Done
 
 **Complete**
+- [x] Roles in OAuth
 
 
 
