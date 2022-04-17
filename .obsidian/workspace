@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Projects/OAuth 2.1/Types of OAuth Clients.md",
+            "file": "templates/Day Planner - Working Day.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -54,8 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2fcd36d9a1d22930",
@@ -101,15 +100,15 @@
   },
   "active": "eff1d31557ceaa43",
   "lastOpenFiles": [
+    "templates/Day Planner - Working Day.md",
+    "1. Projects/OAuth 2.1/User Consent.md",
+    "1. Projects/OAuth 2.1/Board.md",
+    "1. Projects/OAuth 2.1/Main.md",
     "1. Projects/OAuth 2.1/Types of OAuth Clients.md",
     "1. Projects/OAuth 2.1/Roles in OAuth.md",
-    "1. Projects/OAuth 2.1/Board.md",
     "1. Projects/OAuth 2.1/Cookie-Based Authentication.md",
     "1. Projects/Korrespah/Board.md",
     "1. Projects/NextLevelWeek - Expanse/Board.md",
-    "Day Planners/Day Planner-20220417.md",
-    "templates/Day Planner - Working Day.md",
-    "1. Projects/NextLevelWeek - Expanse/Stage 1.md",
-    "templates/leetcode_everyday-page.md"
+    "Day Planners/Day Planner-20220417.md"
   ]
 }

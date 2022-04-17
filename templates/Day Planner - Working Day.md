@@ -12,5 +12,6 @@
 ---
 ## After work - *2h*
 - [ ] 19:00 Study
+- [ ] 20:10 Plan next day
 - [ ] 20:30 Windown
 - [ ] 21:30 Sleep
