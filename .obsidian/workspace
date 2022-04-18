@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Projects/Design Patterns GOF/Adapter VS Façade VS Proxy VS Decorator.md",
+            "file": "1. Projects/Design Patterns GOF/Gateway Patterns.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -101,7 +101,7 @@
   },
   "active": "5e78505cd4d59974",
   "lastOpenFiles": [
-    "1. Projects/Design Patterns GOF/Adapter VS Façade VS Proxy VS Decorator.md",
+    "1. Projects/Design Patterns GOF/Gateway Patterns.md",
     "1. Projects/Design Patterns GOF/Board.md",
     "Day Planners/Day Planner-20220418.md",
     "Day Planners/Day Planner-20220417.md",
