@@ -7,9 +7,12 @@
         "id": "5e78505cd4d59974",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "1. Projects/Design Patterns GOF/Board.md"
+            "file": "1. Projects/Design Patterns GOF/Adapter VS Façade VS Proxy VS Decorator.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
           }
         }
       }
@@ -93,10 +96,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 405
+    "width": 405,
+    "collapsed": true
   },
   "active": "5e78505cd4d59974",
   "lastOpenFiles": [
+    "1. Projects/Design Patterns GOF/Adapter VS Façade VS Proxy VS Decorator.md",
     "1. Projects/Design Patterns GOF/Board.md",
     "Day Planners/Day Planner-20220418.md",
     "Day Planners/Day Planner-20220417.md",
@@ -105,7 +110,6 @@
     "1. Projects/OAuth 2.1/Board.md",
     "1. Projects/OAuth 2.1/Main.md",
     "1. Projects/OAuth 2.1/Types of OAuth Clients.md",
-    "1. Projects/OAuth 2.1/Roles in OAuth.md",
-    "1. Projects/OAuth 2.1/Cookie-Based Authentication.md"
+    "1. Projects/OAuth 2.1/Roles in OAuth.md"
   ]
 }
