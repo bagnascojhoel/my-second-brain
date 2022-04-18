@@ -73,6 +73,35 @@
               "type": "timeline",
               "state": {}
             }
+          },
+          {
+            "id": "1bcaaae53f459c98",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. Projects/Design Patterns GOF/Gateway Patterns.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9edeece0633e117a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1. Projects/Design Patterns GOF/Gateway Patterns.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ]
       },
