@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Day Planners/Day Planner-20220417.md",
+            "file": "Day Planners/Day Planner-20220418.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -100,6 +100,7 @@
   },
   "active": "eff1d31557ceaa43",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20220418.md",
     "Day Planners/Day Planner-20220417.md",
     "templates/Day Planner - Working Day.md",
     "1. Projects/OAuth 2.1/User Consent.md",
@@ -108,7 +109,6 @@
     "1. Projects/OAuth 2.1/Types of OAuth Clients.md",
     "1. Projects/OAuth 2.1/Roles in OAuth.md",
     "1. Projects/OAuth 2.1/Cookie-Based Authentication.md",
-    "1. Projects/Korrespah/Board.md",
-    "1. Projects/NextLevelWeek - Expanse/Board.md"
+    "1. Projects/Korrespah/Board.md"
   ]
 }
