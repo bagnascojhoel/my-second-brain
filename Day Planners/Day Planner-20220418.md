@@ -3,7 +3,7 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 6:59:28 PM
+    %% Current Time: 7:09:28 PM
     section Tasks
     Wash up     :05-30, 15mm
     Water and exercise     :05-45, 25mm
@@ -26,7 +26,7 @@ gantt
 ---
 ## Work - *10h*
 - [x] 07:30 Work
-- [ ] 17:00 BREAK
+- [x] 17:00 BREAK
 ---
 ## After work - *2h*
 - [ ] 19:00 Work on a Project
