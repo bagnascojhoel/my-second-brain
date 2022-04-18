@@ -1,14 +1,32 @@
 # Day Planner
+```mermaid
+gantt
+    dateFormat  HH-mm
+    axisFormat %H:%M
+    %% Current Time: 7:15:53 AM
+    section Tasks
+    Wash up     :05-30, 15mm
+    Water and exercise     :05-45, 25mm
+    Breakfeast     :06-10, 50mm
+    Quick personal work     :07-00, 30mm
+    Work     :07-30, 570mm
+    Work on a Project     :19-00, 70mm
+    Plan next day     :20-10, 20mm
+    Windown     :20-30, 60mm
+    Sleep     :21-30, 0mm
+    section Breaks
+    BREAK     :17-00, 120mm
+```
 
 ## Before work - *2h*
-- [ ] 05:30 Wash up
-- [ ] 05:45 Water and exercise
-- [ ] 06:10 Breakfeast
-- [ ] 07:00 Leetcode
+- [x] 05:30 Wash up
+- [x] 05:45 Water and exercise
+- [x] 06:10 Breakfeast
+- [ ] 07:00 Quick personal work
 ---
 ## Work - *10h*
 - [ ] 07:30 Work
-- [ ] 17:00 Break
+- [ ] 17:00 BREAK
 ---
 ## After work - *2h*
 - [ ] 19:00 Work on a Project
