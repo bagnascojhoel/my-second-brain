@@ -1,3 +1,4 @@
+# Roles in OAuth
 These are **roles**, not distinct components. Meaning that a architectural component may have one or more roles (e.g. an API which acts as a Resource Server and the Authorization Server).
 - **Resource Owner** or User
 - **User Agent** or Device

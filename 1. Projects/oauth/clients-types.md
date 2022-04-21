@@ -1,3 +1,4 @@
+# Types of OAuth Clients
 - **Confidential**: this client has credentials and the Authorization Server always trusts that it is the specific client.
 	- Should be used if the application can be deployed with credentials securely. Basically, it must run on a private and controlled hardware. 
 	- Ensures that only known clients issue access tokens.
