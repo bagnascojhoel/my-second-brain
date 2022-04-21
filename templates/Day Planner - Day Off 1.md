@@ -1,4 +1,4 @@
 ## Day Planner
 
 ## Before work - *2h*
-- [ ] 09:30 Wash up
+- [ ] 09:s30 Wash up
