@@ -12,5 +12,6 @@
     "pt-BR"
   ],
   "promptDelete": false,
-  "vimMode": false
+  "vimMode": false,
+  "alwaysUpdateLinks": true
 }
