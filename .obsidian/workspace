@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "templates/Day Planner - Day Off 1.md",
+            "file": "templates/Day Planner - Day Off.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Day Planner - Day Off 1.md",
+                "file": "templates/Day Planner - Day Off.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Day Planner - Day Off 1.md",
+                "file": "templates/Day Planner - Day Off.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
   },
   "active": "5e78505cd4d59974",
   "lastOpenFiles": [
-    "templates/Day Planner - Day Off 1.md",
+    "templates/Day Planner - Day Off.md",
     "Day Planners/Day Planner-20220421.md",
     "Day Planners/Day Planner-20220417.md",
     "Day Planners/Day Planner-20220418.md",
