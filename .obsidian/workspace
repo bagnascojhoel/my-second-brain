@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Projects/Design Patterns GOF/Gateway Patterns.md",
+            "file": "templates/Day Planner - Day Off 1.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/Design Patterns GOF/Gateway Patterns.md",
+                "file": "templates/Day Planner - Day Off 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/Design Patterns GOF/Gateway Patterns.md",
+                "file": "templates/Day Planner - Day Off 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,15 +129,15 @@
   },
   "active": "5e78505cd4d59974",
   "lastOpenFiles": [
+    "templates/Day Planner - Day Off 1.md",
+    "templates/Day Planner - Working Day.md",
+    "Day Planners/Day Planner-20220421.md",
     "1. Projects/Design Patterns GOF/Gateway Patterns.md",
     "1. Projects/Design Patterns GOF/Board.md",
     "Day Planners/Day Planner-20220418.md",
     "Day Planners/Day Planner-20220417.md",
-    "templates/Day Planner - Working Day.md",
     "1. Projects/OAuth 2.1/User Consent.md",
     "1. Projects/OAuth 2.1/Board.md",
-    "1. Projects/OAuth 2.1/Main.md",
-    "1. Projects/OAuth 2.1/Types of OAuth Clients.md",
-    "1. Projects/OAuth 2.1/Roles in OAuth.md"
+    "1. Projects/OAuth 2.1/Main.md"
   ]
 }
