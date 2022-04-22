@@ -3,7 +3,7 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 9:08:21 PM
+    %% Current Time: 9:10:07 PM
     section Tasks
     Wash up     :09-30, 60mm
     Do something usefull     :10-30, 90mm
@@ -21,6 +21,6 @@ gantt
 
 ## After midday
 - [x] 12:00 Lunch
-- [ ] 14:00 Do something
+- [x] 14:00 Do something
 - [ ] 21:10 Windown
 - [ ] 22:00 Sleep

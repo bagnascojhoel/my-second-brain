@@ -12,4 +12,5 @@ Although the user consent step adds important security mechanisms, it still inte
 	- If an App owned by the same owner of the Authentication Server requests authentication, the user consent screen is redundant. If the App wanted to do something bad, it wouldn't need to ask the user for data, since it already has it.
 - **Confidential Client**
 	- A confidential client should be trust-worthy. Since they have secrets (assuming they handle it properly), the Authorization Server can be sure that they are who they say.
-If you are still worried that attackers may trick your user's into sharing their data, you can still enable the user consent step. Making life even harder for the attacker.
+
+(If you are still worried that attackers may trick your user's into sharing their data, you can still enable the user consent step. Making life even harder for the attacker.)
