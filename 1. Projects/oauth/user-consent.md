@@ -6,4 +6,9 @@
 If the OAuth Client needs some information about the user, they must request them from the Authorization Server. The server will then display the information the App will be receiving on the user consent screen. That way you will always know what the App uses.
 
 ## There are some who can be trusted
-The user consent step interrupts the flow and can be 
+Although the user consent step adds important security mechanisms, it still interrupts the flow and can damage user experience. Normally it would be strongly recommended to enable a user consent step, but for these cases the experience can be improved without any security weakening:
+- **First-party App's**
+	- E.g. Gmail asks you to sing-in with Google
+	- If an App owned by the same owner of the Authentication Server requests authentication, the user consent screen is redundant. If the App wanted to do something bad, it wouldn't need to ask the user for data, since it already has it.
+- **Confidential Client**
+	- A confidential client should be trust-worthy. Since they have secrets (assuming they handle it properly), the Authorization Server can be sure that they are who they say.
