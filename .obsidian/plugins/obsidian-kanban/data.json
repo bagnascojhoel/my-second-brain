@@ -1,0 +1,11 @@
+{
+  "new-note-folder": "kanban-notes",
+  "metadata-keys": [
+    {
+      "metadataKey": "#board",
+      "label": "",
+      "shouldHideLabel": false,
+      "containsMarkdown": false
+    }
+  ]
+}

@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5e78505cd4d59974",
+        "id": "ed3bb6d2105694b2",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "1. Projects/aws-developer-associate/Board.md"
+            "file": "1. Projects/freecodecamp/Untitled Kanban.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
           }
         }
       }
@@ -76,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/aws-developer-associate/Board.md",
+                "file": "1. Projects/freecodecamp/Untitled Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/aws-developer-associate/Board.md",
+                "file": "1. Projects/freecodecamp/Untitled Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,17 +127,17 @@
     "width": 405,
     "collapsed": true
   },
-  "active": "5e78505cd4d59974",
+  "active": "ed3bb6d2105694b2",
   "lastOpenFiles": [
+    "1. Projects/freecodecamp/Untitled Kanban.md",
+    "templates/Template - Working Day Planner.md",
+    "templates/Template - Day Off Planner.md",
+    "1. Projects/freecodecamp/Untitled.md",
+    "1. Projects/design-patterns/Board.md",
     "1. Projects/aws-developer-associate/Board.md",
+    "templates/Template - Board.md",
     "1. Projects/kwik-ecommerce/Board.md",
     "1. Projects/this-is-jhoel/Board.md",
-    "1. Projects/oauth/Board.md",
-    "Adicionar Proxy API para utilizar comunicação autenticada com GitHub.md",
-    "Adicionar Proxy API para utilizar comunicação autenticada com GitHub #1.md",
-    "1. Projects/Untitled.md",
-    "Day Planners/Day Planner-20220423.md",
-    "templates/Day Planner - Day Off.md",
-    "Day Planners/Day Planner-20220417.md"
+    "1. Projects/oauth/Board.md"
   ]
 }
