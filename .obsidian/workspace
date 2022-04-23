@@ -7,8 +7,10 @@
         "id": "5e78505cd4d59974",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "kanban",
+          "state": {
+            "file": "1. Projects/aws-developer-associate/Board.md"
+          }
         }
       }
     ],
@@ -74,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1. Projects/aws-developer-associate/Board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1. Projects/aws-developer-associate/Board.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,15 +126,15 @@
   },
   "active": "5e78505cd4d59974",
   "lastOpenFiles": [
+    "1. Projects/aws-developer-associate/Board.md",
+    "1. Projects/kwik-ecommerce/Board.md",
+    "1. Projects/this-is-jhoel/Board.md",
+    "1. Projects/oauth/Board.md",
+    "Adicionar Proxy API para utilizar comunicação autenticada com GitHub.md",
+    "Adicionar Proxy API para utilizar comunicação autenticada com GitHub #1.md",
     "1. Projects/Untitled.md",
     "Day Planners/Day Planner-20220423.md",
     "templates/Day Planner - Day Off.md",
-    "Day Planners/Day Planner-20220417.md",
-    "templates/Day Planner - Working Day.md",
-    "1. Projects/oauth/user-consent.md",
-    "1. Projects/oauth/roles.md",
-    "1. Projects/oauth/Board.md",
-    "1. Projects/oauth/clients-types.md",
-    "1. Projects/oauth/Main.md"
+    "Day Planners/Day Planner-20220417.md"
   ]
 }
