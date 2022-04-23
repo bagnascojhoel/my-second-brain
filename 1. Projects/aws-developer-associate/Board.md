@@ -19,5 +19,3 @@ kanban-plugin: basic
 {"kanban-plugin":"basic","new-note-folder":"kanban-notes","show-checkboxes":false}
 ```
 %%
-
-#board

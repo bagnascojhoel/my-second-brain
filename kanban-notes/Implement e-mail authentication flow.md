@@ -1,0 +1,7 @@
+- [ ] Create endpoint to request authentication
+  - Client sends an e-mail and always receives an *Accepted* HTTP status.
+  - If the e-mail exists as a user, the backend sends an e-mail to it. If not, it logs the attempt.
+  - The e-mail sent should contain a random token. This token will then be used to authenticate.
+- [ ] Create endpoint to authenticate
+  - Client sends the received token.
+  - If the token matches the expected one, the backend should generate an access token, a refresh token and an expiration date for each of those tokens.

@@ -1,0 +1,1 @@
+A API do GitHub tem um limite muito baixo para chamadas não autenticadas. Preciso alterar para realizar chamadas autenticadas, cujo limite de requisições é maior.

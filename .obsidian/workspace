@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "ed3bb6d2105694b2",
+        "id": "7f20d48e39f2cf25",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "ab4dd4812ecb16fa",
+        "type": "leaf",
+        "state": {
+          "type": "kanban",
           "state": {
-            "file": "1. Projects/freecodecamp/Untitled Kanban.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
+            "file": "1. Projects/oauth/Board.md"
           }
         }
       }
@@ -41,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cdn",
+                "query": "file: Board",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -50,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -79,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/freecodecamp/Untitled Kanban.md",
+                "file": "1. Projects/oauth/Board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/freecodecamp/Untitled Kanban.md",
+                "file": "1. Projects/oauth/Board.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,17 +133,17 @@
     "width": 405,
     "collapsed": true
   },
-  "active": "ed3bb6d2105694b2",
+  "active": "ab4dd4812ecb16fa",
   "lastOpenFiles": [
-    "1. Projects/freecodecamp/Untitled Kanban.md",
-    "templates/Template - Working Day Planner.md",
-    "templates/Template - Day Off Planner.md",
-    "1. Projects/freecodecamp/Untitled.md",
+    "1. Projects/oauth/Board.md",
+    "1. Projects/this-is-jhoel/Board.md",
+    "1. Projects/kwik-ecommerce/Board.md",
+    "kanban-notes/Implement e-mail authentication flow.md",
+    "kanban-notes/Adicionar Proxy API para utilizar comunicação autenticada com GitHub.md",
+    "templates/Template - Board.md",
     "1. Projects/design-patterns/Board.md",
     "1. Projects/aws-developer-associate/Board.md",
-    "templates/Template - Board.md",
-    "1. Projects/kwik-ecommerce/Board.md",
-    "1. Projects/this-is-jhoel/Board.md",
-    "1. Projects/oauth/Board.md"
+    "1. Projects/freecodecamp/Board.md",
+    "excalidraw/Drawing 2022-04-23 12.26.01.excalidraw.md"
   ]
 }
