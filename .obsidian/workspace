@@ -4,15 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "7f20d48e39f2cf25",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
-      },
-      {
-        "id": "ab4dd4812ecb16fa",
+        "id": "428867f2b19414d7",
         "type": "leaf",
         "state": {
           "type": "kanban",
@@ -46,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: Board",
+                "query": "file:Board",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,17 +125,17 @@
     "width": 405,
     "collapsed": true
   },
-  "active": "ab4dd4812ecb16fa",
+  "active": "428867f2b19414d7",
   "lastOpenFiles": [
     "1. Projects/oauth/Board.md",
-    "1. Projects/this-is-jhoel/Board.md",
-    "1. Projects/kwik-ecommerce/Board.md",
-    "kanban-notes/Implement e-mail authentication flow.md",
-    "kanban-notes/Adicionar Proxy API para utilizar comunicação autenticada com GitHub.md",
-    "templates/Template - Board.md",
-    "1. Projects/design-patterns/Board.md",
-    "1. Projects/aws-developer-associate/Board.md",
-    "1. Projects/freecodecamp/Board.md",
-    "excalidraw/Drawing 2022-04-23 12.26.01.excalidraw.md"
+    "1. Projects/aws-developer-associate/Cognito.md",
+    "1. Projects/aws-developer-associate/Load Balancer.md",
+    "1. Projects/design-patterns/Gateway Patterns.md",
+    "1. Projects/oauth/Main.md",
+    "1. Projects/aws-developer-associate/S3.md",
+    "1. Projects/aws-developer-associate/CDN.md",
+    "1. Projects/oauth/user-consent.md",
+    "1. Projects/aws-developer-associate/Geographical Components.md",
+    "1. Projects/oauth/clients-types.md"
   ]
 }
