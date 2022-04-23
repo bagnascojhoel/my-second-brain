@@ -6,6 +6,7 @@ kanban-plugin: basic
 
 ## To Do
 
+- [ ] Schedule call with customer
 
 
 ## Doing

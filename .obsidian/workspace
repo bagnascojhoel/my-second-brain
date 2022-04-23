@@ -7,12 +7,9 @@
         "id": "15a2841c4965c982",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "Day Planners/Day Planner-20220423.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
+            "file": "1. Projects/korrespah/Board - Korrespah.md"
           }
         }
       }
@@ -80,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day Planner-20220423.md",
+                "file": "1. Projects/korrespah/Board - Korrespah.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day Planners/Day Planner-20220423.md",
+                "file": "1. Projects/korrespah/Board - Korrespah.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,10 +127,10 @@
   },
   "active": "15a2841c4965c982",
   "lastOpenFiles": [
+    "1. Projects/korrespah/Board - Korrespah.md",
     "Day Planners/Day Planner-20220423.md",
     "1. Projects/kwik-ecommerce/Board - Kwik.md",
     "1. Projects/next-level-week/Board - NLW.md",
-    "1. Projects/korrespah/Board - Korrespah.md",
     "1. Projects/aws-developer-associate/Board - AWS.md",
     "1. Projects/this-is-jhoel/Board - ThisIsJhoel.md",
     "1. Projects/design-patterns/Board - Go4.md",
