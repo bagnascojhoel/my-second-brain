@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Projects/oauth/user-consent.md",
+            "file": "Day Planners/Day Planner-20220423.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -54,8 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2fcd36d9a1d22930",
@@ -80,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/oauth/user-consent.md",
+                "file": "Day Planners/Day Planner-20220423.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/oauth/user-consent.md",
+                "file": "Day Planners/Day Planner-20220423.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,15 +129,15 @@
   },
   "active": "5e78505cd4d59974",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20220423.md",
+    "templates/Day Planner - Day Off.md",
+    "Day Planners/Day Planner-20220417.md",
+    "templates/Day Planner - Working Day.md",
     "1. Projects/oauth/user-consent.md",
     "1. Projects/oauth/roles.md",
     "1. Projects/oauth/Board.md",
     "1. Projects/oauth/clients-types.md",
     "1. Projects/oauth/Main.md",
-    "Day Planners/Day Planner-20220421.md",
-    "templates/Day Planner - Day Off.md",
-    "Day Planners/Day Planner-20220417.md",
-    "Day Planners/Day Planner-20220418.md",
-    "templates/Day Planner - Working Day.md"
+    "Day Planners/Day Planner-20220421.md"
   ]
 }
