@@ -4,8 +4,8 @@
   "mermaid": true,
   "notesToDates": [],
   "completePastItems": true,
-  "circularProgress": true,
-  "nowAndNextInStatusBar": false,
+  "circularProgress": false,
+  "nowAndNextInStatusBar": true,
   "showTaskNotification": true,
   "timelineZoomLevel": 3
 }
