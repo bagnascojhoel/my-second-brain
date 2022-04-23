@@ -7,13 +7,8 @@
         "id": "5e78505cd4d59974",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Day Planners/Day Planner-20220423.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -79,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day Planner-20220423.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +90,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day Planners/Day Planner-20220423.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,6 +122,7 @@
   },
   "active": "5e78505cd4d59974",
   "lastOpenFiles": [
+    "1. Projects/Untitled.md",
     "Day Planners/Day Planner-20220423.md",
     "templates/Day Planner - Day Off.md",
     "Day Planners/Day Planner-20220417.md",
@@ -137,7 +131,6 @@
     "1. Projects/oauth/roles.md",
     "1. Projects/oauth/Board.md",
     "1. Projects/oauth/clients-types.md",
-    "1. Projects/oauth/Main.md",
-    "Day Planners/Day Planner-20220421.md"
+    "1. Projects/oauth/Main.md"
   ]
 }
