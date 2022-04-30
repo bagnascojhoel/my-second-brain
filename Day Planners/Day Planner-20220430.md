@@ -3,7 +3,7 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 12:25:06 PM
+    %% Current Time: 12:35:06 PM
     section Tasks
     Wash up     :09-30, 60mm
     Send documentation to ADP     :10-30, 90mm
