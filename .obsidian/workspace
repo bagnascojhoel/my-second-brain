@@ -7,9 +7,12 @@
         "id": "15a2841c4965c982",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "1. Projects/clean-architecture/Board - Clean.md"
+            "file": "Day Planners/Day Planner-20220430.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
           }
         }
       }
@@ -76,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/clean-architecture/Board - Clean.md",
+                "file": "Day Planners/Day Planner-20220430.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/clean-architecture/Board - Clean.md",
+                "file": "Day Planners/Day Planner-20220430.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,15 +129,15 @@
   },
   "active": "15a2841c4965c982",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20220430.md",
+    "Day Planners/Day Planner-20220417.md",
+    "templates/Template - Day Off Planner.md",
+    "Day Planners/Day Planner-20220428.md",
     "1. Projects/clean-architecture/Board - Clean.md",
     "1. Projects/next-level-week/Board - NLW.md",
     "1. Projects/korrespah/Board - Korrespah.md",
     "Day Planners/Day Planner-20220423.md",
     "1. Projects/kwik-ecommerce/Board - Kwik.md",
-    "1. Projects/aws-developer-associate/Board - AWS.md",
-    "1. Projects/this-is-jhoel/Board - ThisIsJhoel.md",
-    "1. Projects/design-patterns/Board - Go4.md",
-    "1. Projects/freecodecamp/Board - FCC.md",
-    "1. Projects/oauth/Board - OAuth.md"
+    "1. Projects/aws-developer-associate/Board - AWS.md"
   ]
 }
