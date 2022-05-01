@@ -3,12 +3,12 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 11:42:31 AM
+    %% Current Time: 11:52:31 AM
     section Tasks
     Wash up     :09-30, 60mm
-    Do something usefull     :10-30, 90mm
+    Enviar documentos admissão ADP     :10-30, 90mm
     Lunch     :12-00, 120mm
-    Do something     :14-00, 60mm
+    Curso Branas     :14-00, 60mm
     Do something     :15-00, 60mm
     Do something     :16-00, 60mm
     Do something     :17-00, 60mm
@@ -22,11 +22,11 @@ gantt
 
 ## Before midday
 - [x] 09:30 Wash up
-- [ ] 10:30 Do something usefull
+- [ ] 10:30 Enviar documentos admissão ADP
 
 ## After midday
 - [ ] 12:00 Lunch
-- [ ] 14:00 Do something
+- [ ] 14:00 Curso Branas
 - [ ] 15:00 Do something
 - [ ] 16:00 Do something
 - [ ] 17:00 Do something
