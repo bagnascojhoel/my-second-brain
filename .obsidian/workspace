@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Day Planners/Day Planner-20220430.md",
+            "file": "Day Planners/Day Planner-20220501.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -54,8 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2fcd36d9a1d22930",
@@ -80,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day Planner-20220430.md",
+                "file": "Day Planners/Day Planner-20220501.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day Planners/Day Planner-20220430.md",
+                "file": "Day Planners/Day Planner-20220501.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,15 +129,15 @@
   },
   "active": "15a2841c4965c982",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20220501.md",
     "Day Planners/Day Planner-20220430.md",
-    "Day Planners/Day Planner-20220417.md",
     "templates/Template - Day Off Planner.md",
+    "Day Planners/Day Planner-20220417.md",
     "Day Planners/Day Planner-20220428.md",
     "1. Projects/clean-architecture/Board - Clean.md",
     "1. Projects/next-level-week/Board - NLW.md",
     "1. Projects/korrespah/Board - Korrespah.md",
     "Day Planners/Day Planner-20220423.md",
-    "1. Projects/kwik-ecommerce/Board - Kwik.md",
-    "1. Projects/aws-developer-associate/Board - AWS.md"
+    "1. Projects/kwik-ecommerce/Board - Kwik.md"
   ]
 }
