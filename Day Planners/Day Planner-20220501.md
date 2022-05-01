@@ -3,7 +3,7 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 1:52:31 PM
+    %% Current Time: 2:02:31 PM
     section Tasks
     Wash up     :09-30, 60mm
     Enviar documentos admissão ADP     :10-30, 90mm
@@ -25,7 +25,7 @@ gantt
 - [x] 10:30 Enviar documentos admissão ADP
 
 ## After midday
-- [ ] 12:00 Lunch
+- [x] 12:00 Lunch
 - [ ] 14:00 Curso Branas
 - [ ] 15:00 Do something
 - [ ] 16:00 Do something
