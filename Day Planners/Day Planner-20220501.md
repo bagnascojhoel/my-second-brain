@@ -3,7 +3,7 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 12:52:31 PM
+    %% Current Time: 1:02:31 PM
     section Tasks
     Wash up     :09-30, 60mm
     Enviar documentos admissão ADP     :10-30, 90mm
